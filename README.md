@@ -2,7 +2,7 @@
 
 CobaltStrike4.7 Sleeve解密文件, 仅作备份使用.
 
-还需要修改TeamserverImage文件，JVM加密。暂不外放。
+还需要修改TeamserverImage文件，暂不外放。
 
 将cobaltstrike.jar（原名cobaltstrike-client.jar）和CrackSleeve.java放一起
 
